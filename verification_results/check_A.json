@@ -1,0 +1,8 @@
+{
+  "target_header_sha256": "534f6be2354fb27096f0d8d2ac19f0a99c21b23def45a2734f965dfd4e1941d2",
+  "valid_base_opcode_count": 1059,
+  "candidate_scripts": 354,
+  "candidate_operations": 15120,
+  "unknown_opcodes": {},
+  "structure_errors": 0
+}

@@ -1,0 +1,214 @@
+{
+  "input": {
+    "path": "investigation/rtw_original/RustTheWheel/scripts.txt",
+    "sha256": "d667feb4c11fb45f838f436a068164ece76e3fb3c06d162c8174d8c3e20f2e88",
+    "script_count": 354,
+    "total_operations": 15120
+  },
+  "mappings_applied": {
+    "715": 716,
+    "716": 717
+  },
+  "changes": [
+    {
+      "script_name": "battle_tactic_apply_aux -1",
+      "statement_index": 22,
+      "token_index": 82,
+      "old_raw": 716,
+      "old_base": 716,
+      "new_raw": 717,
+      "new_base": 717,
+      "modifiers": 0
+    },
+    {
+      "script_name": "battle_tactic_apply_aux -1",
+      "statement_index": 32,
+      "token_index": 122,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "tick_town_walkers -1",
+      "statement_index": 9,
+      "token_index": 35,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "set_town_walker_destination -1",
+      "statement_index": 67,
+      "token_index": 238,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "siege_init_ai_and_belfry -1",
+      "statement_index": 42,
+      "token_index": 171,
+      "old_raw": 716,
+      "old_base": 716,
+      "new_raw": 717,
+      "new_base": 717,
+      "modifiers": 0
+    },
+    {
+      "script_name": "siege_init_ai_and_belfry -1",
+      "statement_index": 43,
+      "token_index": 176,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "cf_siege_move_belfry -1",
+      "statement_index": 8,
+      "token_index": 34,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "cf_siege_move_belfry -1",
+      "statement_index": 9,
+      "token_index": 39,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "cf_siege_move_belfry -1",
+      "statement_index": 16,
+      "token_index": 68,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "cf_siege_move_belfry -1",
+      "statement_index": 54,
+      "token_index": 211,
+      "old_raw": 716,
+      "old_base": 716,
+      "new_raw": 717,
+      "new_base": 717,
+      "modifiers": 0
+    },
+    {
+      "script_name": "cf_siege_move_belfry -1",
+      "statement_index": 55,
+      "token_index": 216,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "cf_siege_move_belfry -1",
+      "statement_index": 56,
+      "token_index": 221,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "cf_siege_move_belfry -1",
+      "statement_index": 62,
+      "token_index": 244,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "cf_siege_assign_men_to_belfry -1",
+      "statement_index": 53,
+      "token_index": 182,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "cf_siege_assign_men_to_belfry -1",
+      "statement_index": 54,
+      "token_index": 187,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    },
+    {
+      "script_name": "convert_3d_pos_to_map_pos -1",
+      "statement_index": 1,
+      "token_index": 4,
+      "old_raw": 716,
+      "old_base": 716,
+      "new_raw": 717,
+      "new_base": 717,
+      "modifiers": 0
+    },
+    {
+      "script_name": "add_troop_to_cur_tableau -1",
+      "statement_index": 38,
+      "token_index": 152,
+      "old_raw": 715,
+      "old_base": 715,
+      "new_raw": 716,
+      "new_base": 716,
+      "modifiers": 0
+    }
+  ],
+  "summary": {
+    "total_token_changes": 17,
+    "affected_scripts_count": 8,
+    "affected_scripts": [
+      "add_troop_to_cur_tableau -1",
+      "battle_tactic_apply_aux -1",
+      "cf_siege_assign_men_to_belfry -1",
+      "cf_siege_move_belfry -1",
+      "convert_3d_pos_to_map_pos -1",
+      "set_town_walker_destination -1",
+      "siege_init_ai_and_belfry -1",
+      "tick_town_walkers -1"
+    ],
+    "old_base_counts": {
+      "716": 4,
+      "715": 13
+    },
+    "new_base_counts": {
+      "717": 4,
+      "716": 13
+    }
+  },
+  "output": {
+    "path": "output_scripts.txt",
+    "sha256": "445efc9bdd48da9115197fbf0897cb992c77e3833bf4affa09292420f8b3d576"
+  },
+  "roundtrip": {
+    "sha256": "d667feb4c11fb45f838f436a068164ece76e3fb3c06d162c8174d8c3e20f2e88",
+    "matches_original": true
+  }
+}

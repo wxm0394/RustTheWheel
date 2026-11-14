@@ -1,0 +1,1985 @@
+{
+  "total_rtw_used_opcodes": 329,
+  "classification": {
+    "unchanged": 327,
+    "changed": 2,
+    "removed": 0,
+    "not_in_table": 0
+  },
+  "opcodes": {
+    "502": {
+      "count": 72,
+      "status": "unchanged",
+      "old_name": "faction_set_slot",
+      "new_name": "faction_set_slot"
+    },
+    "2133": {
+      "count": 2165,
+      "status": "unchanged",
+      "old_name": "assign",
+      "new_name": "assign"
+    },
+    "500": {
+      "count": 450,
+      "status": "unchanged",
+      "old_name": "troop_set_slot",
+      "new_name": "troop_set_slot"
+    },
+    "6": {
+      "count": 347,
+      "status": "unchanged",
+      "old_name": "try_for_range",
+      "new_name": "try_for_range"
+    },
+    "3": {
+      "count": 1374,
+      "status": "unchanged",
+      "old_name": "end_try",
+      "new_name": "end_try"
+    },
+    "2136": {
+      "count": 170,
+      "status": "unchanged",
+      "old_name": "store_random_in_range",
+      "new_name": "store_random_in_range"
+    },
+    "1": {
+      "count": 662,
+      "status": "unchanged",
+      "old_name": "call_script",
+      "new_name": "call_script"
+    },
+    "1623": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_relocate_near_party",
+      "new_name": "party_relocate_near_party"
+    },
+    "2322": {
+      "count": 35,
+      "status": "unchanged",
+      "old_name": "str_store_troop_name",
+      "new_name": "str_store_troop_name"
+    },
+    "1669": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "party_set_name",
+      "new_name": "party_set_name"
+    },
+    "507": {
+      "count": 67,
+      "status": "unchanged",
+      "old_name": "item_set_slot",
+      "new_name": "item_set_slot"
+    },
+    "2121": {
+      "count": 102,
+      "status": "unchanged",
+      "old_name": "store_sub",
+      "new_name": "store_sub"
+    },
+    "540": {
+      "count": 72,
+      "status": "unchanged",
+      "old_name": "troop_slot_eq",
+      "new_name": "troop_slot_eq"
+    },
+    "4": {
+      "count": 977,
+      "status": "unchanged",
+      "old_name": "try_begin",
+      "new_name": "try_begin"
+    },
+    "31": {
+      "count": 1455,
+      "status": "unchanged",
+      "old_name": "eq",
+      "new_name": "eq"
+    },
+    "2105": {
+      "count": 494,
+      "status": "unchanged",
+      "old_name": "val_add",
+      "new_name": "val_add"
+    },
+    "5": {
+      "count": 821,
+      "status": "unchanged",
+      "old_name": "else_try_begin",
+      "new_name": "else_try_begin"
+    },
+    "522": {
+      "count": 57,
+      "status": "unchanged",
+      "old_name": "faction_get_slot",
+      "new_name": "faction_get_slot"
+    },
+    "542": {
+      "count": 71,
+      "status": "unchanged",
+      "old_name": "faction_slot_eq",
+      "new_name": "faction_slot_eq"
+    },
+    "501": {
+      "count": 304,
+      "status": "unchanged",
+      "old_name": "party_set_slot",
+      "new_name": "party_set_slot"
+    },
+    "30": {
+      "count": 508,
+      "status": "unchanged",
+      "old_name": "ge",
+      "new_name": "ge"
+    },
+    "2120": {
+      "count": 111,
+      "status": "unchanged",
+      "old_name": "store_add",
+      "new_name": "store_add"
+    },
+    "2107": {
+      "count": 221,
+      "status": "unchanged",
+      "old_name": "val_mul",
+      "new_name": "val_mul"
+    },
+    "2108": {
+      "count": 186,
+      "status": "unchanged",
+      "old_name": "val_div",
+      "new_name": "val_div"
+    },
+    "541": {
+      "count": 171,
+      "status": "unchanged",
+      "old_name": "party_slot_eq",
+      "new_name": "party_slot_eq"
+    },
+    "2112": {
+      "count": 13,
+      "status": "unchanged",
+      "old_name": "val_clamp",
+      "new_name": "val_clamp"
+    },
+    "2173": {
+      "count": 56,
+      "status": "unchanged",
+      "old_name": "store_troop_faction",
+      "new_name": "store_troop_faction"
+    },
+    "2171": {
+      "count": 34,
+      "status": "unchanged",
+      "old_name": "store_character_level",
+      "new_name": "store_character_level"
+    },
+    "2122": {
+      "count": 93,
+      "status": "unchanged",
+      "old_name": "store_mul",
+      "new_name": "store_mul"
+    },
+    "561": {
+      "count": 17,
+      "status": "unchanged",
+      "old_name": "party_slot_ge",
+      "new_name": "party_slot_ge"
+    },
+    "2281": {
+      "count": 53,
+      "status": "unchanged",
+      "old_name": "store_distance_to_party_from_party",
+      "new_name": "store_distance_to_party_from_party"
+    },
+    "2204": {
+      "count": 92,
+      "status": "unchanged",
+      "old_name": "store_faction_of_party",
+      "new_name": "store_faction_of_party"
+    },
+    "33": {
+      "count": 131,
+      "status": "unchanged",
+      "old_name": "is_between",
+      "new_name": "is_between"
+    },
+    "2123": {
+      "count": 58,
+      "status": "unchanged",
+      "old_name": "store_div",
+      "new_name": "store_div"
+    },
+    "1673": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "party_upgrade_with_xp",
+      "new_name": "party_upgrade_with_xp"
+    },
+    "521": {
+      "count": 131,
+      "status": "unchanged",
+      "old_name": "party_get_slot",
+      "new_name": "party_get_slot"
+    },
+    "1660": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_attach_to_party",
+      "new_name": "party_attach_to_party"
+    },
+    "520": {
+      "count": 201,
+      "status": "unchanged",
+      "old_name": "troop_get_slot",
+      "new_name": "troop_get_slot"
+    },
+    "32": {
+      "count": 350,
+      "status": "unchanged",
+      "old_name": "gt",
+      "new_name": "gt"
+    },
+    "560": {
+      "count": 31,
+      "status": "unchanged",
+      "old_name": "troop_slot_ge",
+      "new_name": "troop_slot_ge"
+    },
+    "2110": {
+      "count": 34,
+      "status": "unchanged",
+      "old_name": "val_min",
+      "new_name": "val_min"
+    },
+    "1103": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "set_spawn_radius",
+      "new_name": "set_spawn_radius"
+    },
+    "1100": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "spawn_around_party",
+      "new_name": "spawn_around_party"
+    },
+    "1672": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "party_set_morale",
+      "new_name": "party_set_morale"
+    },
+    "21": {
+      "count": 146,
+      "status": "unchanged",
+      "old_name": "store_script_param_1",
+      "new_name": "store_script_param_1"
+    },
+    "22": {
+      "count": 63,
+      "status": "unchanged",
+      "old_name": "store_script_param_2",
+      "new_name": "store_script_param_2"
+    },
+    "2190": {
+      "count": 60,
+      "status": "unchanged",
+      "old_name": "store_relation",
+      "new_name": "store_relation"
+    },
+    "1609": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "party_get_template_id",
+      "new_name": "party_get_template_id"
+    },
+    "1030": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "rest_for_hours",
+      "new_name": "rest_for_hours"
+    },
+    "2060": {
+      "count": 23,
+      "status": "unchanged",
+      "old_name": "jump_to_menu",
+      "new_name": "jump_to_menu"
+    },
+    "2075": {
+      "count": 16,
+      "status": "unchanged",
+      "old_name": "set_trigger_result",
+      "new_name": "set_trigger_result"
+    },
+    "1662": {
+      "count": 10,
+      "status": "unchanged",
+      "old_name": "party_collect_attachments_to_party",
+      "new_name": "party_collect_attachments_to_party"
+    },
+    "2111": {
+      "count": 48,
+      "status": "unchanged",
+      "old_name": "val_max",
+      "new_name": "val_max"
+    },
+    "2273": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "is_currently_night",
+      "new_name": "is_currently_night"
+    },
+    "1697": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "inflict_casualties_to_party_group",
+      "new_name": "inflict_casualties_to_party_group"
+    },
+    "1650": {
+      "count": 41,
+      "status": "unchanged",
+      "old_name": "party_get_num_companion_stacks",
+      "new_name": "party_get_num_companion_stacks"
+    },
+    "1652": {
+      "count": 52,
+      "status": "unchanged",
+      "old_name": "party_stack_get_troop_id",
+      "new_name": "party_stack_get_troop_id"
+    },
+    "1507": {
+      "count": 51,
+      "status": "unchanged",
+      "old_name": "troop_is_hero",
+      "new_name": "troop_is_hero"
+    },
+    "2341": {
+      "count": 16,
+      "status": "unchanged",
+      "old_name": "str_store_troop_name_link",
+      "new_name": "str_store_troop_name_link"
+    },
+    "2343": {
+      "count": 21,
+      "status": "unchanged",
+      "old_name": "str_store_faction_name_link",
+      "new_name": "str_store_faction_name_link"
+    },
+    "1611": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "party_add_prisoners",
+      "new_name": "party_add_prisoners"
+    },
+    "1105": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "display_log_message",
+      "new_name": "display_log_message"
+    },
+    "1106": {
+      "count": 61,
+      "status": "unchanged",
+      "old_name": "display_message",
+      "new_name": "display_message"
+    },
+    "1651": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "party_get_num_prisoner_stacks",
+      "new_name": "party_get_num_prisoner_stacks"
+    },
+    "1656": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "party_prisoner_stack_get_troop_id",
+      "new_name": "party_prisoner_stack_get_troop_id"
+    },
+    "1617": {
+      "count": 14,
+      "status": "unchanged",
+      "old_name": "party_clear",
+      "new_name": "party_clear"
+    },
+    "1698": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "distribute_party_among_party_group",
+      "new_name": "distribute_party_among_party_group"
+    },
+    "2330": {
+      "count": 23,
+      "status": "unchanged",
+      "old_name": "str_store_party_name",
+      "new_name": "str_store_party_name"
+    },
+    "2335": {
+      "count": 17,
+      "status": "unchanged",
+      "old_name": "str_store_faction_name",
+      "new_name": "str_store_faction_name"
+    },
+    "132": {
+      "count": 29,
+      "status": "unchanged",
+      "old_name": "party_is_active",
+      "new_name": "party_is_active"
+    },
+    "1631": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "party_count_companions_of_type",
+      "new_name": "party_count_companions_of_type"
+    },
+    "1632": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "party_count_prisoners_of_type",
+      "new_name": "party_count_prisoners_of_type"
+    },
+    "23": {
+      "count": 217,
+      "status": "unchanged",
+      "old_name": "store_script_param",
+      "new_name": "store_script_param"
+    },
+    "1603": {
+      "count": 19,
+      "status": "unchanged",
+      "old_name": "party_set_flags",
+      "new_name": "party_set_flags"
+    },
+    "1685": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "party_get_skill_level",
+      "new_name": "party_get_skill_level"
+    },
+    "2106": {
+      "count": 107,
+      "status": "unchanged",
+      "old_name": "val_sub",
+      "new_name": "val_sub"
+    },
+    "152": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "troop_is_mounted",
+      "new_name": "troop_is_mounted"
+    },
+    "2170": {
+      "count": 9,
+      "status": "unchanged",
+      "old_name": "store_skill_level",
+      "new_name": "store_skill_level"
+    },
+    "1653": {
+      "count": 24,
+      "status": "unchanged",
+      "old_name": "party_stack_get_size",
+      "new_name": "party_stack_get_size"
+    },
+    "1695": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "party_get_num_attached_parties",
+      "new_name": "party_get_num_attached_parties"
+    },
+    "1696": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "party_get_attached_party_with_rank",
+      "new_name": "party_get_attached_party_with_rank"
+    },
+    "1701": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "get_player_agent_kill_count",
+      "new_name": "get_player_agent_kill_count"
+    },
+    "2320": {
+      "count": 182,
+      "status": "unchanged",
+      "old_name": "str_store_string",
+      "new_name": "str_store_string"
+    },
+    "60": {
+      "count": 10,
+      "status": "unchanged",
+      "old_name": "set_result_string",
+      "new_name": "set_result_string"
+    },
+    "1705": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "get_player_agent_own_troop_kill_count",
+      "new_name": "get_player_agent_own_troop_kill_count"
+    },
+    "2172": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "store_attribute_level",
+      "new_name": "store_attribute_level"
+    },
+    "527": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "item_get_slot",
+      "new_name": "item_get_slot"
+    },
+    "980": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "context_menu_add_item",
+      "new_name": "context_menu_add_item"
+    },
+    "2053": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "change_screen_notes",
+      "new_name": "change_screen_notes"
+    },
+    "2021": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "talk_info_set_relation_bar",
+      "new_name": "talk_info_set_relation_bar"
+    },
+    "2022": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "talk_info_set_line",
+      "new_name": "talk_info_set_line"
+    },
+    "1080": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "set_party_creation_random_limits",
+      "new_name": "set_party_creation_random_limits"
+    },
+    "1654": {
+      "count": 9,
+      "status": "unchanged",
+      "old_name": "party_stack_get_num_wounded",
+      "new_name": "party_stack_get_num_wounded"
+    },
+    "1508": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "troop_is_wounded",
+      "new_name": "troop_is_wounded"
+    },
+    "1540": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "troop_get_inventory_capacity",
+      "new_name": "troop_get_inventory_capacity"
+    },
+    "1541": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "troop_get_inventory_slot",
+      "new_name": "troop_get_inventory_slot"
+    },
+    "1542": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "troop_get_inventory_slot_modifier",
+      "new_name": "troop_get_inventory_slot_modifier"
+    },
+    "1531": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_remove_item",
+      "new_name": "troop_remove_item"
+    },
+    "2109": {
+      "count": 17,
+      "status": "unchanged",
+      "old_name": "val_mod",
+      "new_name": "val_mod"
+    },
+    "2149": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "store_troop_gold",
+      "new_name": "store_troop_gold"
+    },
+    "1529": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "troop_remove_gold",
+      "new_name": "troop_remove_gold"
+    },
+    "1530": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_add_item",
+      "new_name": "troop_add_item"
+    },
+    "1492": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "reset_item_probabilities",
+      "new_name": "reset_item_probabilities"
+    },
+    "1493": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "set_item_probability_in_merchandise",
+      "new_name": "set_item_probability_in_merchandise"
+    },
+    "1512": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "troop_add_merchandise",
+      "new_name": "troop_add_merchandise"
+    },
+    "1539": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_loot_troop",
+      "new_name": "troop_loot_troop"
+    },
+    "1674": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_add_xp",
+      "new_name": "party_add_xp"
+    },
+    "1261": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "modify_visitors_at_site",
+      "new_name": "modify_visitors_at_site"
+    },
+    "1262": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "reset_visitors",
+      "new_name": "reset_visitors"
+    },
+    "1263": {
+      "count": 13,
+      "status": "unchanged",
+      "old_name": "set_visitor",
+      "new_name": "set_visitor"
+    },
+    "1911": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "set_jump_mission",
+      "new_name": "set_jump_mission"
+    },
+    "1910": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "jump_to_scene",
+      "new_name": "jump_to_scene"
+    },
+    "2049": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "change_screen_map_conversation",
+      "new_name": "change_screen_map_conversation"
+    },
+    "1655": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_stack_get_troop_dna",
+      "new_name": "party_stack_get_troop_dna"
+    },
+    "7": {
+      "count": 15,
+      "status": "unchanged",
+      "old_name": "try_for_range_backwards",
+      "new_name": "try_for_range_backwards"
+    },
+    "1615": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "party_remove_members",
+      "new_name": "party_remove_members"
+    },
+    "1657": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "party_prisoner_stack_get_size",
+      "new_name": "party_prisoner_stack_get_size"
+    },
+    "1616": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "party_remove_prisoners",
+      "new_name": "party_remove_prisoners"
+    },
+    "1610": {
+      "count": 20,
+      "status": "unchanged",
+      "old_name": "party_add_members",
+      "new_name": "party_add_members"
+    },
+    "1618": {
+      "count": 9,
+      "status": "unchanged",
+      "old_name": "party_wound_members",
+      "new_name": "party_wound_members"
+    },
+    "1601": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "party_get_num_companions",
+      "new_name": "party_get_num_companions"
+    },
+    "2319": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "str_clear",
+      "new_name": "str_clear"
+    },
+    "2324": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "str_store_troop_name_by_count",
+      "new_name": "str_store_troop_name_by_count"
+    },
+    "153": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "troop_is_guarantee_ranged",
+      "new_name": "troop_is_guarantee_ranged"
+    },
+    "154": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "troop_is_guarantee_horse",
+      "new_name": "troop_is_guarantee_horse"
+    },
+    "1062": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "add_xp_to_troop",
+      "new_name": "add_xp_to_troop"
+    },
+    "1522": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_raise_proficiency",
+      "new_name": "troop_raise_proficiency"
+    },
+    "1670": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_add_xp_to_stack",
+      "new_name": "party_add_xp_to_stack"
+    },
+    "1570": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "item_get_type",
+      "new_name": "item_get_type"
+    },
+    "1941": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "mission_tpl_entry_clear_override_items",
+      "new_name": "mission_tpl_entry_clear_override_items"
+    },
+    "1942": {
+      "count": 27,
+      "status": "unchanged",
+      "old_name": "mission_tpl_entry_add_override_item",
+      "new_name": "mission_tpl_entry_add_override_item"
+    },
+    "2175": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "store_troop_health",
+      "new_name": "store_troop_health"
+    },
+    "1560": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "troop_set_health",
+      "new_name": "troop_set_health"
+    },
+    "11": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "try_for_parties",
+      "new_name": "try_for_parties"
+    },
+    "1694": {
+      "count": 13,
+      "status": "unchanged",
+      "old_name": "party_get_attached_to",
+      "new_name": "party_get_attached_to"
+    },
+    "200": {
+      "count": 27,
+      "status": "unchanged",
+      "old_name": "check_quest_active",
+      "new_name": "check_quest_active"
+    },
+    "566": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "quest_slot_ge",
+      "new_name": "quest_slot_ge"
+    },
+    "2254": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "store_random_party_in_range",
+      "new_name": "store_random_party_in_range"
+    },
+    "2230": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "store_item_value",
+      "new_name": "store_item_value"
+    },
+    "2302": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "store_num_parties_destroyed_by_player",
+      "new_name": "store_num_parties_destroyed_by_player"
+    },
+    "504": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_template_set_slot",
+      "new_name": "party_template_set_slot"
+    },
+    "506": {
+      "count": 30,
+      "status": "unchanged",
+      "old_name": "quest_set_slot",
+      "new_name": "quest_set_slot"
+    },
+    "1506": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "troop_get_type",
+      "new_name": "troop_get_type"
+    },
+    "101": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "hero_can_join",
+      "new_name": "hero_can_join"
+    },
+    "1633": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "party_get_free_companions_capacity",
+      "new_name": "party_get_free_companions_capacity"
+    },
+    "1561": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "troop_get_upgrade_troop",
+      "new_name": "troop_get_upgrade_troop"
+    },
+    "1625": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "party_get_position",
+      "new_name": "party_get_position"
+    },
+    "1627": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "map_get_random_position_around_position",
+      "new_name": "map_get_random_position_around_position"
+    },
+    "710": {
+      "count": 14,
+      "status": "unchanged",
+      "old_name": "get_distance_between_positions",
+      "new_name": "get_distance_between_positions"
+    },
+    "700": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "copy_position",
+      "new_name": "copy_position"
+    },
+    "546": {
+      "count": 19,
+      "status": "unchanged",
+      "old_name": "quest_slot_eq",
+      "new_name": "quest_slot_eq"
+    },
+    "2272": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "store_current_day",
+      "new_name": "store_current_day"
+    },
+    "1680": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "party_get_battle_opponent",
+      "new_name": "party_get_battle_opponent"
+    },
+    "2290": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "get_party_ai_behavior",
+      "new_name": "get_party_ai_behavior"
+    },
+    "1663": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "party_quick_attach_to_current_battle",
+      "new_name": "party_quick_attach_to_current_battle"
+    },
+    "1700": {
+      "count": 12,
+      "status": "unchanged",
+      "old_name": "get_player_agent_no",
+      "new_name": "get_player_agent_no"
+    },
+    "1702": {
+      "count": 22,
+      "status": "unchanged",
+      "old_name": "agent_is_alive",
+      "new_name": "agent_is_alive"
+    },
+    "1710": {
+      "count": 19,
+      "status": "unchanged",
+      "old_name": "agent_get_position",
+      "new_name": "agent_get_position"
+    },
+    "2124": {
+      "count": 14,
+      "status": "unchanged",
+      "old_name": "set_fixed_point_multiplier",
+      "new_name": "set_fixed_point_multiplier"
+    },
+    "12": {
+      "count": 25,
+      "status": "unchanged",
+      "old_name": "try_for_agents",
+      "new_name": "try_for_agents"
+    },
+    "1704": {
+      "count": 17,
+      "status": "unchanged",
+      "old_name": "agent_is_human",
+      "new_name": "agent_is_human"
+    },
+    "1706": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "agent_is_ally",
+      "new_name": "agent_is_ally"
+    },
+    "1290": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "setup_quest_text",
+      "new_name": "setup_quest_text"
+    },
+    "1620": {
+      "count": 14,
+      "status": "unchanged",
+      "old_name": "party_set_faction",
+      "new_name": "party_set_faction"
+    },
+    "1677": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "party_set_banner_icon",
+      "new_name": "party_set_banner_icon"
+    },
+    "1550": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_set_faction",
+      "new_name": "troop_set_faction"
+    },
+    "1675": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "party_add_template",
+      "new_name": "party_add_template"
+    },
+    "1626": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_set_position",
+      "new_name": "party_set_position"
+    },
+    "1640": {
+      "count": 15,
+      "status": "unchanged",
+      "old_name": "party_set_ai_behavior",
+      "new_name": "party_set_ai_behavior"
+    },
+    "1532": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_clear_inventory",
+      "new_name": "troop_clear_inventory"
+    },
+    "1535": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "troop_add_items",
+      "new_name": "troop_add_items"
+    },
+    "1544": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_set_inventory_slot_modifier",
+      "new_name": "troop_set_inventory_slot_modifier"
+    },
+    "1232": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "remove_party",
+      "new_name": "remove_party"
+    },
+    "1612": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_add_leader",
+      "new_name": "party_add_leader"
+    },
+    "1641": {
+      "count": 13,
+      "status": "unchanged",
+      "old_name": "party_set_ai_object",
+      "new_name": "party_set_ai_object"
+    },
+    "1510": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_ensure_inventory_space",
+      "new_name": "troop_ensure_inventory_space"
+    },
+    "1605": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "party_set_extra_text",
+      "new_name": "party_set_extra_text"
+    },
+    "1679": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "party_clear_particle_systems",
+      "new_name": "party_clear_particle_systems"
+    },
+    "1678": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "party_add_particle_system",
+      "new_name": "party_add_particle_system"
+    },
+    "1676": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "party_set_icon",
+      "new_name": "party_set_icon"
+    },
+    "2342": {
+      "count": 26,
+      "status": "unchanged",
+      "old_name": "str_store_party_name_link",
+      "new_name": "str_store_party_name_link"
+    },
+    "131": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "party_is_in_any_town",
+      "new_name": "party_is_in_any_town"
+    },
+    "1661": {
+      "count": 9,
+      "status": "unchanged",
+      "old_name": "party_detach",
+      "new_name": "party_detach"
+    },
+    "1642": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "party_set_ai_target_position",
+      "new_name": "party_set_ai_target_position"
+    },
+    "1643": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "party_set_ai_patrol_radius",
+      "new_name": "party_set_ai_patrol_radius"
+    },
+    "1639": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "party_set_ai_initiative",
+      "new_name": "party_set_ai_initiative"
+    },
+    "1665": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "party_get_cur_town",
+      "new_name": "party_get_cur_town"
+    },
+    "2270": {
+      "count": 10,
+      "status": "unchanged",
+      "old_name": "store_current_hours",
+      "new_name": "store_current_hours"
+    },
+    "1064": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "add_xp_as_reward",
+      "new_name": "add_xp_as_reward"
+    },
+    "2113": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "val_abs",
+      "new_name": "val_abs"
+    },
+    "1270": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "set_relation",
+      "new_name": "set_relation"
+    },
+    "1671": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "party_get_morale",
+      "new_name": "party_get_morale"
+    },
+    "150": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "player_has_item",
+      "new_name": "player_has_item"
+    },
+    "1602": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_get_num_prisoners",
+      "new_name": "party_get_num_prisoners"
+    },
+    "526": {
+      "count": 35,
+      "status": "unchanged",
+      "old_name": "quest_get_slot",
+      "new_name": "quest_get_slot"
+    },
+    "2291": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "get_party_ai_object",
+      "new_name": "get_party_ai_object"
+    },
+    "1509": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_set_auto_equip",
+      "new_name": "troop_set_auto_equip"
+    },
+    "1608": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_get_current_terrain",
+      "new_name": "party_get_current_terrain"
+    },
+    "1912": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "set_jump_entry",
+      "new_name": "set_jump_entry"
+    },
+    "503": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "scene_set_slot",
+      "new_name": "scene_set_slot"
+    },
+    "2048": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "change_screen_mission",
+      "new_name": "change_screen_mission"
+    },
+    "1799": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "get_scene_boundaries",
+      "new_name": "get_scene_boundaries"
+    },
+    "1792": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "team_get_leader",
+      "new_name": "team_get_leader"
+    },
+    "726": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "position_get_x",
+      "new_name": "position_get_x"
+    },
+    "727": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "position_get_y",
+      "new_name": "position_get_y"
+    },
+    "701": {
+      "count": 30,
+      "status": "unchanged",
+      "old_name": "init_position",
+      "new_name": "init_position"
+    },
+    "729": {
+      "count": 62,
+      "status": "unchanged",
+      "old_name": "position_set_x",
+      "new_name": "position_set_x"
+    },
+    "730": {
+      "count": 54,
+      "status": "unchanged",
+      "old_name": "position_set_y",
+      "new_name": "position_set_y"
+    },
+    "731": {
+      "count": 13,
+      "status": "unchanged",
+      "old_name": "position_set_z",
+      "new_name": "position_set_z"
+    },
+    "791": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "position_set_z_to_ground_level",
+      "new_name": "position_set_z_to_ground_level"
+    },
+    "728": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "position_get_z",
+      "new_name": "position_get_z"
+    },
+    "1770": {
+      "count": 17,
+      "status": "unchanged",
+      "old_name": "agent_get_team",
+      "new_name": "agent_get_team"
+    },
+    "1005": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "num_active_teams_le",
+      "new_name": "num_active_teams_le"
+    },
+    "1788": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "teams_are_enemies",
+      "new_name": "teams_are_enemies"
+    },
+    "1790": {
+      "count": 13,
+      "status": "unchanged",
+      "old_name": "team_give_order",
+      "new_name": "team_give_order"
+    },
+    "1791": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "team_set_order_position",
+      "new_name": "team_set_order_position"
+    },
+    "1736": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "agent_set_speed_limit",
+      "new_name": "agent_set_speed_limit"
+    },
+    "2370": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "store_mission_timer_a",
+      "new_name": "store_mission_timer_a"
+    },
+    "716": {
+      "count": 4,
+      "status": "changed",
+      "old_name": "position_transform_position_to_local",
+      "new_name": "position_transform_position_to_local"
+    },
+    "741": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "position_normalize_origin",
+      "new_name": "position_normalize_origin"
+    },
+    "2131": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "convert_from_fixed_point",
+      "new_name": "convert_from_fixed_point"
+    },
+    "715": {
+      "count": 13,
+      "status": "changed",
+      "old_name": "position_transform_position_to_parent",
+      "new_name": "position_transform_position_to_parent"
+    },
+    "1772": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "agent_get_class",
+      "new_name": "agent_get_class"
+    },
+    "1283": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "fail_quest",
+      "new_name": "fail_quest"
+    },
+    "1107": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "set_show_messages",
+      "new_name": "set_show_messages"
+    },
+    "505": {
+      "count": 15,
+      "status": "unchanged",
+      "old_name": "agent_set_slot",
+      "new_name": "agent_set_slot"
+    },
+    "1718": {
+      "count": 15,
+      "status": "unchanged",
+      "old_name": "agent_get_troop_id",
+      "new_name": "agent_get_troop_id"
+    },
+    "2321": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "str_store_string_reg",
+      "new_name": "str_store_string_reg"
+    },
+    "1120": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "tutorial_box",
+      "new_name": "tutorial_box"
+    },
+    "545": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "agent_slot_eq",
+      "new_name": "agent_slot_eq"
+    },
+    "1720": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "store_agent_hit_points",
+      "new_name": "store_agent_hit_points"
+    },
+    "1722": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "agent_deliver_damage_to_agent",
+      "new_name": "agent_deliver_damage_to_agent"
+    },
+    "1703": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "agent_is_wounded",
+      "new_name": "agent_is_wounded"
+    },
+    "2130": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "convert_to_fixed_point",
+      "new_name": "convert_to_fixed_point"
+    },
+    "2125": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "store_sqrt",
+      "new_name": "store_sqrt"
+    },
+    "720": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "position_move_x",
+      "new_name": "position_move_x"
+    },
+    "721": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "position_move_y",
+      "new_name": "position_move_y"
+    },
+    "722": {
+      "count": 10,
+      "status": "unchanged",
+      "old_name": "position_move_z",
+      "new_name": "position_move_z"
+    },
+    "1811": {
+      "count": 15,
+      "status": "unchanged",
+      "old_name": "scene_prop_get_instance",
+      "new_name": "scene_prop_get_instance"
+    },
+    "1850": {
+      "count": 10,
+      "status": "unchanged",
+      "old_name": "prop_instance_get_position",
+      "new_name": "prop_instance_get_position"
+    },
+    "724": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "position_rotate_y",
+      "new_name": "position_rotate_y"
+    },
+    "1860": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "prop_instance_animate_to_position",
+      "new_name": "prop_instance_animate_to_position"
+    },
+    "1890": {
+      "count": 22,
+      "status": "unchanged",
+      "old_name": "replace_scene_props",
+      "new_name": "replace_scene_props"
+    },
+    "600": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "play_sound",
+      "new_name": "play_sound"
+    },
+    "2165": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "store_item_kind_count",
+      "new_name": "store_item_kind_count"
+    },
+    "1536": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_remove_items",
+      "new_name": "troop_remove_items"
+    },
+    "1533": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_equip_items",
+      "new_name": "troop_equip_items"
+    },
+    "1264": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "set_visitors",
+      "new_name": "set_visitors"
+    },
+    "1740": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "agent_set_animation",
+      "new_name": "agent_set_animation"
+    },
+    "1741": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "agent_set_stand_animation",
+      "new_name": "agent_set_stand_animation"
+    },
+    "1743": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "agent_set_animation_progress",
+      "new_name": "agent_set_animation_progress"
+    },
+    "1780": {
+      "count": 11,
+      "status": "unchanged",
+      "old_name": "entry_point_get_position",
+      "new_name": "entry_point_get_position"
+    },
+    "1717": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "agent_get_entry_no",
+      "new_name": "agent_get_entry_no"
+    },
+    "525": {
+      "count": 9,
+      "status": "unchanged",
+      "old_name": "agent_get_slot",
+      "new_name": "agent_get_slot"
+    },
+    "2134": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "shuffle_range",
+      "new_name": "shuffle_range"
+    },
+    "1730": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "agent_set_scripted_destination",
+      "new_name": "agent_set_scripted_destination"
+    },
+    "725": {
+      "count": 15,
+      "status": "unchanged",
+      "old_name": "position_rotate_z",
+      "new_name": "position_rotate_z"
+    },
+    "2211": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "store_current_scene",
+      "new_name": "store_current_scene"
+    },
+    "523": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "scene_get_slot",
+      "new_name": "scene_get_slot"
+    },
+    "723": {
+      "count": 19,
+      "status": "unchanged",
+      "old_name": "position_rotate_x",
+      "new_name": "position_rotate_x"
+    },
+    "1851": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "prop_instance_get_starting_position",
+      "new_name": "prop_instance_get_starting_position"
+    },
+    "1855": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "prop_instance_set_position",
+      "new_name": "prop_instance_set_position"
+    },
+    "1785": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "team_get_movement_order",
+      "new_name": "team_get_movement_order"
+    },
+    "1735": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "agent_clear_scripted_mode",
+      "new_name": "agent_clear_scripted_mode"
+    },
+    "1708": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "agent_is_defender",
+      "new_name": "agent_is_defender"
+    },
+    "1738": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "agent_get_simple_behavior",
+      "new_name": "agent_get_simple_behavior"
+    },
+    "1739": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "agent_get_combat_state",
+      "new_name": "agent_get_combat_state"
+    },
+    "1786": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "team_get_riding_order",
+      "new_name": "team_get_riding_order"
+    },
+    "1787": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "team_get_weapon_usage_order",
+      "new_name": "team_get_weapon_usage_order"
+    },
+    "1784": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "team_get_hold_fire_order",
+      "new_name": "team_get_hold_fire_order"
+    },
+    "1775": {
+      "count": 12,
+      "status": "unchanged",
+      "old_name": "class_is_listening_order",
+      "new_name": "class_is_listening_order"
+    },
+    "920": {
+      "count": 21,
+      "status": "unchanged",
+      "old_name": "overlay_set_text",
+      "new_name": "overlay_set_text"
+    },
+    "1795": {
+      "count": 12,
+      "status": "unchanged",
+      "old_name": "team_set_order_listener",
+      "new_name": "team_set_order_listener"
+    },
+    "926": {
+      "count": 22,
+      "status": "unchanged",
+      "old_name": "overlay_set_position",
+      "new_name": "overlay_set_position"
+    },
+    "911": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "create_mesh_overlay",
+      "new_name": "create_mesh_overlay"
+    },
+    "925": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "overlay_set_size",
+      "new_name": "overlay_set_size"
+    },
+    "922": {
+      "count": 10,
+      "status": "unchanged",
+      "old_name": "overlay_set_alpha",
+      "new_name": "overlay_set_alpha"
+    },
+    "1716": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "agent_get_party_id",
+      "new_name": "agent_get_party_id"
+    },
+    "921": {
+      "count": 5,
+      "status": "unchanged",
+      "old_name": "overlay_set_color",
+      "new_name": "overlay_set_color"
+    },
+    "1709": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "agent_get_look_position",
+      "new_name": "agent_get_look_position"
+    },
+    "740": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "position_get_rotation_around_z",
+      "new_name": "position_get_rotation_around_z"
+    },
+    "930": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "overlay_set_mesh_rotation",
+      "new_name": "overlay_set_mesh_rotation"
+    },
+    "1794": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "team_get_order_position",
+      "new_name": "team_get_order_position"
+    },
+    "927": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "overlay_set_val",
+      "new_name": "overlay_set_val"
+    },
+    "933": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "overlay_animate_to_alpha",
+      "new_name": "overlay_animate_to_alpha"
+    },
+    "547": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "item_slot_eq",
+      "new_name": "item_slot_eq"
+    },
+    "1537": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_inventory_slot_get_item_amount",
+      "new_name": "troop_inventory_slot_get_item_amount"
+    },
+    "1534": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_inventory_slot_set_item_amount",
+      "new_name": "troop_inventory_slot_set_item_amount"
+    },
+    "1275": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "faction_set_name",
+      "new_name": "faction_set_name"
+    },
+    "1276": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "faction_set_color",
+      "new_name": "faction_set_color"
+    },
+    "1771": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "agent_set_team",
+      "new_name": "agent_set_team"
+    },
+    "2340": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "str_store_date",
+      "new_name": "str_store_date"
+    },
+    "1113": {
+      "count": 24,
+      "status": "unchanged",
+      "old_name": "add_quest_note_from_sreg",
+      "new_name": "add_quest_note_from_sreg"
+    },
+    "1280": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "start_quest",
+      "new_name": "start_quest"
+    },
+    "1286": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "conclude_quest",
+      "new_name": "conclude_quest"
+    },
+    "1282": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "succeed_quest",
+      "new_name": "succeed_quest"
+    },
+    "203": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "check_quest_failed",
+      "new_name": "check_quest_failed"
+    },
+    "1281": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "complete_quest",
+      "new_name": "complete_quest"
+    },
+    "1284": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "cancel_quest",
+      "new_name": "cancel_quest"
+    },
+    "1118": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "add_faction_note_from_sreg",
+      "new_name": "add_faction_note_from_sreg"
+    },
+    "1109": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "add_faction_note_tableau_mesh",
+      "new_name": "add_faction_note_tableau_mesh"
+    },
+    "1117": {
+      "count": 13,
+      "status": "unchanged",
+      "old_name": "add_troop_note_from_sreg",
+      "new_name": "add_troop_note_from_sreg"
+    },
+    "1108": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "add_troop_note_tableau_mesh",
+      "new_name": "add_troop_note_tableau_mesh"
+    },
+    "1119": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "add_party_note_from_sreg",
+      "new_name": "add_party_note_from_sreg"
+    },
+    "1110": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "add_party_note_tableau_mesh",
+      "new_name": "add_party_note_tableau_mesh"
+    },
+    "110": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "main_party_has_troop",
+      "new_name": "main_party_has_troop"
+    },
+    "1981": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "cur_item_set_tableau_material",
+      "new_name": "cur_item_set_tableau_material"
+    },
+    "1998": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "cur_tableau_clear_override_items",
+      "new_name": "cur_tableau_clear_override_items"
+    },
+    "1997": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "cur_tableau_set_override_flags",
+      "new_name": "cur_tableau_set_override_flags"
+    },
+    "1989": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "cur_tableau_set_camera_parameters",
+      "new_name": "cur_tableau_set_camera_parameters"
+    },
+    "1992": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "cur_tableau_add_mesh",
+      "new_name": "cur_tableau_add_mesh"
+    },
+    "1995": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "cur_tableau_add_troop",
+      "new_name": "cur_tableau_add_troop"
+    },
+    "1988": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "cur_tableau_set_camera_position",
+      "new_name": "cur_tableau_set_camera_position"
+    },
+    "1991": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "cur_tableau_add_sun_light",
+      "new_name": "cur_tableau_add_sun_light"
+    },
+    "2119": {
+      "count": 12,
+      "status": "unchanged",
+      "old_name": "store_mod",
+      "new_name": "store_mod"
+    },
+    "1996": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "cur_tableau_add_horse",
+      "new_name": "cur_tableau_add_horse"
+    },
+    "2310": {
+      "count": 6,
+      "status": "unchanged",
+      "old_name": "store_num_parties_of_template",
+      "new_name": "store_num_parties_of_template"
+    },
+    "2135": {
+      "count": 4,
+      "status": "unchanged",
+      "old_name": "store_random",
+      "new_name": "store_random"
+    },
+    "1528": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "troop_add_gold",
+      "new_name": "troop_add_gold"
+    },
+    "1025": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "start_map_conversation",
+      "new_name": "start_map_conversation"
+    },
+    "204": {
+      "count": 3,
+      "status": "unchanged",
+      "old_name": "check_quest_concluded",
+      "new_name": "check_quest_concluded"
+    },
+    "1210": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "remove_member_from_party",
+      "new_name": "remove_member_from_party"
+    },
+    "1644": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "party_ignore_player",
+      "new_name": "party_ignore_player"
+    },
+    "1723": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "agent_get_kill_count",
+      "new_name": "agent_get_kill_count"
+    },
+    "2000": {
+      "count": 7,
+      "status": "unchanged",
+      "old_name": "cur_tableau_add_mesh_with_scale_and_vertex_color",
+      "new_name": "cur_tableau_add_mesh_with_scale_and_vertex_color"
+    },
+    "2325": {
+      "count": 2,
+      "status": "unchanged",
+      "old_name": "str_store_item_name",
+      "new_name": "str_store_item_name"
+    },
+    "2114": {
+      "count": 8,
+      "status": "unchanged",
+      "old_name": "val_or",
+      "new_name": "val_or"
+    },
+    "603": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "music_set_situation",
+      "new_name": "music_set_situation"
+    },
+    "604": {
+      "count": 1,
+      "status": "unchanged",
+      "old_name": "music_set_culture",
+      "new_name": "music_set_culture"
+    }
+  }
+}
